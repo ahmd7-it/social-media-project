@@ -1,0 +1,9 @@
+# Compiled files
+*.exe
+*.o
+
+# User data (sensitive)
+users.txt
+
+# Temporary files
+tempCodeRunnerFile.cpp
